@@ -7,6 +7,10 @@ This project its related with a previous [Node.js Challenge](https://github.com/
 In this challenge, using __React Native__ and __Axios__, I have build a simple mobile App capable to consume my API services
 of show and like repositories
 
+<p align="center"> 
+<img src="https://github.com/gustavo-candido/Desafio-04-Conceitos-do-React-Native/blob/master/WhatsApp-Video-2020-05-20-at-133.gif">
+</p>
+
 
 ## :mag: Implementation details ##
 
